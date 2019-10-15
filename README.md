@@ -7,5 +7,5 @@ The Magensa Tokenization Service is Payment Card Industry (PCI) compliant. After
 
 This web service enables developers to send data to Magensa for token creation.  The encrypted, self-contained token is returned to the client to manage/store.  Through the redeem API, tokens are sent to Magensa for decription, data manipulation if defined, and either returned or securely forwarded to customer defined endpoints.
 
-Getting Started
-A test account must be set-up in order to utilize the Magensa Tokenization Service.  Please contact Magensa Sales at service.solutions@magtek.com in order to acquire test account credentials, a client certificate, and IP whitelisting.
+# Getting Started
+A test account must be set-up in order to utilize the Magensa Tokenization Service.  Please contact Magensa Sales at service.solutions@magtek.com in order to acquire test account credentials, a client certificate, and IP whitelisting.  
