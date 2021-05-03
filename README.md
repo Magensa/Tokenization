@@ -1,5 +1,5 @@
-# Tokenization-PII
-Cloud Service to Secure and Privatize Personally Identifiable Information (PII)
+# Tokenization (Magensa TokenExchange)
+Cloud Service to Secure and Privatize data, including Personally Identifiable Information (PII)
 
 This web service enables developers to send data to Magensa for token creation.  The encrypted, self-contained token is returned to the client to manage/store.  Through the redeem API, tokens are sent to Magensa for decryption, data manipulation if defined, and either returned or securely forwarded to customer defined endpoints.     
  
