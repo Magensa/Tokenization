@@ -1,6 +1,0 @@
-{
-  "createtokenurl": "[your_create_token_url]/CreateToken/CreateTokensService.svc",
-  "redeemtokenurl": "[your_redeem_token_url]/RedeemToken/RedeemTokenService.svc",
-  "CERTIFICATE_FILENAME": "[your_cert_filename]",
-  "CERTIFICATE_PASSWORD": "[your_cert_password]"
-}
